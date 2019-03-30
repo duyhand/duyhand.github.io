@@ -14,5 +14,20 @@ Depends: mobilesubstrate
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: Duy❤️Hà
 
+Package: com.duyhand.vixaduy00
+Name: Ví Xả Duy
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vixaduy00.deb
+SHA1:e8e2579c7c5250447971b7b9d0c562e79138cb1a
+SHA256:7cbcf2da3f97d4db3d909d4adcab068d2ab0d67b387a7a48d1ee027b7651bf52
+Size:119214
+MD5sum:63ef0b63dc5012c485db6135ad87e7c7
+Description: Duy Hà Nam Định
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: Duy❤️Hà
 
 
