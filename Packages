@@ -30,4 +30,20 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: Duy❤️Hà
 
+Package: com.duyhand.hpfaketweak
+Name: hpfaketweak
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/hpfaketweak.deb
+SHA1:b4258488dffb3f9c20d2d9c8c9dab4ac6c91115a
+SHA256:0d243d8999e44fd2e933c877f5586e1bf2f42c44b5e234d239bd15323a893650
+Size:119214
+MD5sum:c59e4833cec2c7b825d1a215e3cf31f5
+Description: Duy Hà Nam Định
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Depends: mobilesubstrate
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: Duy❤️Hà
+
 
