@@ -46,4 +46,22 @@ Depends: mobilesubstrate
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: Duy❤️Hà
 
-
+Package: com.duyhand.icleanerpro
+Name: iCleaner Pro IOS 11-12
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.7.5
+Filename: ./debs/icleanerpro.deb
+MD5sum:a18780d2a0ec2ce0e1537a78fb0bf7c4
+SHA1:bc53e2b95d25ea46025503adaf6f0f9c94eda254
+SHA256:2a4500c37a36a664d702d06dcdcd4bc024e8e8bb1e2dcd9016fff02126c09fd7
+Size:9921702
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
