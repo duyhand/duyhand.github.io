@@ -88,3 +88,21 @@ Section: Tweaks
 dev: cunstuck
 Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios9, compatible::ios10
 Icon: file:///Applications/LocationHandle.app/AppIcon29x29@2x.png
+
+Package: com.duyhand.locationchangerx
+Name: LocationFaker(8,9,10,11)
+Version: 2.2
+Filename: ./debs/locationchangerx.deb
+MD5sum:a56c411344215b3d394388989e911161
+SHA1:6dfefb9cb3854e99ad073079f5c9958668b0f200
+SHA256:e4fa7c41db21bd73b73ad3595dc4744d7143eff4f7f34c6165a572e1604787d1
+Size:636628
+Depends: firmware, mobilesubstrate
+Conflicts: org.thebigboss.locationchangerx
+Architecture: iphoneos-arm
+Author: Duy Hà
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=locationchangerx
+Section: Duy Hà
+Description: change your location using a map
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=locationchangerx
+Maintainer: Duy Hà Nam Định
