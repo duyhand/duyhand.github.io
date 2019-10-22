@@ -114,7 +114,7 @@ Filename: ./debs/successionrestore.deb
 MD5sum:7492d0c21c664564943c1ddd23db5962
 SHA1:2b747150a79d24ac4bf17bdaf6a37bb609f06f0a
 SHA256:6f306766373c8b6c897d96fcfa29aee9284ad3c4f28e40f7e6d0513d58e77a65
-Size:1313624
+Size:13136556
 Architecture: iphoneos-arm
 Description: Restore without updating via rootfilesystem DMG
 Maintainer: Samg_is_a_Ninja
