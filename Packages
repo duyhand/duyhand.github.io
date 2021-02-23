@@ -123,3 +123,21 @@ Section: Utilities
 Depends: firmware-sbin, rsync
 Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
 Icon:file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+
+Package: com.duyhand.ts
+Section: 触动标准版旧版
+Maintainer: 北京帮你玩科技有限公司  <support@touchsprite.com>
+Architecture: iphoneos-arm
+Version: 2.4.6-1
+Filename: ./debs/ts.deb
+MD5sum:f27a94985fbb3ca44f59082b3ed27313
+SHA1:a8170b0dd61f627d61c900cb0670a6d4c3aa9ef7
+SHA256:85f60a703abf1d29d7798cb92cbe054689f25cfddaee94504a47f301952e7547
+Size:10410368
+Replaces: com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178
+Provides: com.ts.touchsprite
+Depends: mobilesubstrate, firmware (>= 6.0)
+Name: Touch Sprite
+Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
+Icon: file:///Applications/TouchSprite.app/icon.png
